@@ -17,7 +17,7 @@ import pytz
 import requests
 
 # ADIF log file to read
-ADIF_FILE = "/var/www/george_wp/adif/logbook.adi"
+ADIF_FILE = "/path/to/log/file.adi"
 
 # How many days back should be uploaded (from now)
 DAYS = 1
