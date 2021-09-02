@@ -23,7 +23,7 @@ ADIF_FILE = "/path/to/log/file.adi"
 DAYS = 1
 
 # Cloudlog server settings
-CL_SERVER = "https://www.george-smart.co.uk"
+CL_SERVER = "https://my-server.co.uk"
 CL_API_KEY = "cl0000000000000"
 CL_STA_PROF = 1
 
